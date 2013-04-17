@@ -15,3 +15,9 @@
 /example/database.sqlite
 /example/.env
 /report.pylint
+
+.DS_Store
+
+*.swp
+
+*.un~
